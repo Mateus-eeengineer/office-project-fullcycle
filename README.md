@@ -10,7 +10,7 @@ Este repositório contém o projeto arquitetônico de um escritório de 60m², d
 
 | Model Space (Desenho) | Plotagem (Entrega Final) |
 |:---:|:---:|
-| ![Model Space](img/preview_model.png.png) | ![PDF Final](img/preview_pdf.png) |
+| ![Model Space](img/preview_model.png) | ![PDF Final](img/preview_pdf.png) |
 
 ## 📂 Estrutura do Projeto
 
